@@ -7,7 +7,7 @@
 
     --ff-sans: 'Outfit', sans-serif;
     --fs-normal: 15px;
-    --fw-bold: 700;
+    --fw-bold: 800;
 }
 
 /* reset */
@@ -54,8 +54,8 @@ img {
 
 h1 {
     margin-top: 5px;
-    padding-left: 16px;
-    padding-right: 16px;
+    padding-left: 12px;
+    padding-right: 12px;
     color: var(--color-dark);
     font-size: 21px;
     font-weight: var(--fw-bold);
